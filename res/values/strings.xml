@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GD Database</string>
+    <string name="adUnitId">ca-app-pub-8564595162671342/4603028118</string>
+    <string name="action_help">Help</string>
+    <string name="action_about">About</string>
+    <string name="drawer_open">Drawer open</string>
+    <string name="drawer_close">Drawer close</string>
+    
+    <string name="help_text">
+<![CDATA[
+        <h1> General </h1>
+        <b>Q: How often is this app\'s data updated?</b> <br/>
+        A: This app pulls all data from the Gundam Wikia in real time, so the data is always up-to-date. <br/><br/>
+
+        <b>Q: I like this app!</b> <br/>
+        A: I\'m glad to hear it. Please rate it on the Play Store :) <br/><br/>
+        
+        <b>Q: This app sucks!/I found a bug/This is not useful/I have a suggestion...</b> <br/>
+        A: Please drop me a line at chinho.dev@gmail.com and let me know how I can improve it. Thank you :)<br/><br/>
+      ]]>
+    </string>
+    
+    <string name="about_text">
+        GD Database
+        \nCopyright Chin 2014
+    </string>
+    
+    <string name="about_text_pro">
+        GD Database Pro
+        \nCopyright Chin 2014
+    </string>
+    
+    <string name="about_text_part2">
+        This app is in no way supported, endorsed or affiliated in with Sunrise Inc. or Bandai. 
+        "Gundam", all associated names, images and trademarks are copyright of Sunrise Inc. and Bandai. 
+        No copyright infringement is intended. \n\n
+
+        Information used by this app is taken from the Gundam Wikia. This information is freely available under the terms of the Creative Commons CC-BY-SA 3.0 License. \n\n
+
+        This app uses the jsoup and Universal Image Loader open source libraries.
+    </string>
+</resources>
